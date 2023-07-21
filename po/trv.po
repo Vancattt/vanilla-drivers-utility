@@ -18,16 +18,16 @@ msgstr ""
 
 #: data/org.vanillaos.DriversUtility.desktop.in:3
 msgid "Drivers Utility"
-msgstr ""
+msgstr "Sürücüler"
 
 #: data/org.vanillaos.DriversUtility.appdata.xml.in:7
 msgid "No description"
-msgstr ""
+msgstr "Açıklama yok"
 
 #: vanilla_drivers_utility/gtk/driver.ui:22
 #: vanilla_drivers_utility/gtk/window-installation.ui:60
 msgid "Restart Now"
-msgstr ""
+msgstr "Şimdi Yeniden Başlat"
 
 #: vanilla_drivers_utility/gtk/help-overlay.ui:11
 msgctxt "shortcut window"
@@ -160,11 +160,11 @@ msgstr ""
 
 #: vanilla_drivers_utility/windows/main_window.py:110
 msgid "_Cancel"
-msgstr ""
+msgstr "İptal Et"
 
 #: vanilla_drivers_utility/windows/main_window.py:111
 msgid "Install"
-msgstr ""
+msgstr "Yükle"
 
 #: vanilla_drivers_utility/windows/main_window.py:118
 msgid "Driver {} installed successfully!"
